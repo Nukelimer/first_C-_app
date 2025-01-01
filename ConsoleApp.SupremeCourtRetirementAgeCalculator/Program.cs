@@ -14,7 +14,6 @@ class Program
         
         Console.WriteLine($"{userName}, how old are you currently?");
         age = Convert.ToInt32(Console.ReadLine());
-
         int ageLeft = retirementAge - age;
         
         Console.WriteLine($"Hey {userName}, you have {ageLeft} years left to be a Justice before retirement from the Supreme Court of Nigeria.");
