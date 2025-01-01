@@ -1,0 +1,14 @@
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.String/bin/Debug/net8.0/ConsoleApp.String
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.String/bin/Debug/net8.0/ConsoleApp.String.deps.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.String/bin/Debug/net8.0/ConsoleApp.String.runtimeconfig.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.String/bin/Debug/net8.0/ConsoleApp.String.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.String/bin/Debug/net8.0/ConsoleApp.String.pdb
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.String/obj/Debug/net8.0/ConsoleApp.String.GeneratedMSBuildEditorConfig.editorconfig
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.String/obj/Debug/net8.0/ConsoleApp.String.AssemblyInfoInputs.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.String/obj/Debug/net8.0/ConsoleApp.String.AssemblyInfo.cs
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.String/obj/Debug/net8.0/ConsoleApp.String.csproj.CoreCompileInputs.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.String/obj/Debug/net8.0/ConsoleApp.String.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.String/obj/Debug/net8.0/refint/ConsoleApp.String.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.String/obj/Debug/net8.0/ConsoleApp.String.pdb
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.String/obj/Debug/net8.0/ConsoleApp.String.genruntimeconfig.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.String/obj/Debug/net8.0/ref/ConsoleApp.String.dll

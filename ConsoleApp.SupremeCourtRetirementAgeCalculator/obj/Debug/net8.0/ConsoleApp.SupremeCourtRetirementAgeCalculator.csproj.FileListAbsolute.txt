@@ -1,0 +1,14 @@
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.SupremeCourtRetirementAgeCalculator/bin/Debug/net8.0/ConsoleApp.SupremeCourtRetirementAgeCalculator
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.SupremeCourtRetirementAgeCalculator/bin/Debug/net8.0/ConsoleApp.SupremeCourtRetirementAgeCalculator.deps.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.SupremeCourtRetirementAgeCalculator/bin/Debug/net8.0/ConsoleApp.SupremeCourtRetirementAgeCalculator.runtimeconfig.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.SupremeCourtRetirementAgeCalculator/bin/Debug/net8.0/ConsoleApp.SupremeCourtRetirementAgeCalculator.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.SupremeCourtRetirementAgeCalculator/bin/Debug/net8.0/ConsoleApp.SupremeCourtRetirementAgeCalculator.pdb
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.SupremeCourtRetirementAgeCalculator/obj/Debug/net8.0/ConsoleApp.SupremeCourtRetirementAgeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.SupremeCourtRetirementAgeCalculator/obj/Debug/net8.0/ConsoleApp.SupremeCourtRetirementAgeCalculator.AssemblyInfoInputs.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.SupremeCourtRetirementAgeCalculator/obj/Debug/net8.0/ConsoleApp.SupremeCourtRetirementAgeCalculator.AssemblyInfo.cs
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.SupremeCourtRetirementAgeCalculator/obj/Debug/net8.0/ConsoleApp.SupremeCourtRetirementAgeCalculator.csproj.CoreCompileInputs.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.SupremeCourtRetirementAgeCalculator/obj/Debug/net8.0/ConsoleApp.SupremeCourtRetirementAgeCalculator.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.SupremeCourtRetirementAgeCalculator/obj/Debug/net8.0/refint/ConsoleApp.SupremeCourtRetirementAgeCalculator.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.SupremeCourtRetirementAgeCalculator/obj/Debug/net8.0/ConsoleApp.SupremeCourtRetirementAgeCalculator.pdb
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.SupremeCourtRetirementAgeCalculator/obj/Debug/net8.0/ConsoleApp.SupremeCourtRetirementAgeCalculator.genruntimeconfig.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.SupremeCourtRetirementAgeCalculator/obj/Debug/net8.0/ref/ConsoleApp.SupremeCourtRetirementAgeCalculator.dll

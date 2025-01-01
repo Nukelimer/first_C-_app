@@ -1,0 +1,14 @@
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IntandBol/bin/Debug/net8.0/ConsoleApp.IntandBol
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IntandBol/bin/Debug/net8.0/ConsoleApp.IntandBol.deps.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IntandBol/bin/Debug/net8.0/ConsoleApp.IntandBol.runtimeconfig.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IntandBol/bin/Debug/net8.0/ConsoleApp.IntandBol.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IntandBol/bin/Debug/net8.0/ConsoleApp.IntandBol.pdb
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IntandBol/obj/Debug/net8.0/ConsoleApp.IntandBol.GeneratedMSBuildEditorConfig.editorconfig
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IntandBol/obj/Debug/net8.0/ConsoleApp.IntandBol.AssemblyInfoInputs.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IntandBol/obj/Debug/net8.0/ConsoleApp.IntandBol.AssemblyInfo.cs
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IntandBol/obj/Debug/net8.0/ConsoleApp.IntandBol.csproj.CoreCompileInputs.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IntandBol/obj/Debug/net8.0/ConsoleApp.IntandBol.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IntandBol/obj/Debug/net8.0/refint/ConsoleApp.IntandBol.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IntandBol/obj/Debug/net8.0/ConsoleApp.IntandBol.pdb
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IntandBol/obj/Debug/net8.0/ConsoleApp.IntandBol.genruntimeconfig.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IntandBol/obj/Debug/net8.0/ref/ConsoleApp.IntandBol.dll
