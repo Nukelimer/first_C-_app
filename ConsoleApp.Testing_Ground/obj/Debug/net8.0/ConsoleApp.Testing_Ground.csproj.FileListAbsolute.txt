@@ -1,0 +1,15 @@
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Testing_Ground/bin/Debug/net8.0/ConsoleApp.Testing_Ground
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Testing_Ground/bin/Debug/net8.0/ConsoleApp.Testing_Ground.deps.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Testing_Ground/bin/Debug/net8.0/ConsoleApp.Testing_Ground.runtimeconfig.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Testing_Ground/bin/Debug/net8.0/ConsoleApp.Testing_Ground.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Testing_Ground/bin/Debug/net8.0/ConsoleApp.Testing_Ground.pdb
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Testing_Ground/obj/Debug/net8.0/ConsoleApp.Testing_Ground.GeneratedMSBuildEditorConfig.editorconfig
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Testing_Ground/obj/Debug/net8.0/ConsoleApp.Testing_Ground.AssemblyInfoInputs.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Testing_Ground/obj/Debug/net8.0/ConsoleApp.Testing_Ground.AssemblyInfo.cs
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Testing_Ground/obj/Debug/net8.0/ConsoleApp.Testing_Ground.csproj.CoreCompileInputs.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Testing_Ground/obj/Debug/net8.0/ConsoleApp.Testing_Ground.sourcelink.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Testing_Ground/obj/Debug/net8.0/ConsoleApp.Testing_Ground.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Testing_Ground/obj/Debug/net8.0/refint/ConsoleApp.Testing_Ground.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Testing_Ground/obj/Debug/net8.0/ConsoleApp.Testing_Ground.pdb
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Testing_Ground/obj/Debug/net8.0/ConsoleApp.Testing_Ground.genruntimeconfig.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Testing_Ground/obj/Debug/net8.0/ref/ConsoleApp.Testing_Ground.dll

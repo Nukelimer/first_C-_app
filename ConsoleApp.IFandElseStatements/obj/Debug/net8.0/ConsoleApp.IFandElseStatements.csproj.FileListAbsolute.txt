@@ -1,0 +1,15 @@
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IFandElseStatements/bin/Debug/net8.0/ConsoleApp.IFandElseStatements
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IFandElseStatements/bin/Debug/net8.0/ConsoleApp.IFandElseStatements.deps.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IFandElseStatements/bin/Debug/net8.0/ConsoleApp.IFandElseStatements.runtimeconfig.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IFandElseStatements/bin/Debug/net8.0/ConsoleApp.IFandElseStatements.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IFandElseStatements/bin/Debug/net8.0/ConsoleApp.IFandElseStatements.pdb
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IFandElseStatements/obj/Debug/net8.0/ConsoleApp.IFandElseStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IFandElseStatements/obj/Debug/net8.0/ConsoleApp.IFandElseStatements.AssemblyInfoInputs.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IFandElseStatements/obj/Debug/net8.0/ConsoleApp.IFandElseStatements.AssemblyInfo.cs
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IFandElseStatements/obj/Debug/net8.0/ConsoleApp.IFandElseStatements.csproj.CoreCompileInputs.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IFandElseStatements/obj/Debug/net8.0/ConsoleApp.IFandElseStatements.sourcelink.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IFandElseStatements/obj/Debug/net8.0/ConsoleApp.IFandElseStatements.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IFandElseStatements/obj/Debug/net8.0/refint/ConsoleApp.IFandElseStatements.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IFandElseStatements/obj/Debug/net8.0/ConsoleApp.IFandElseStatements.pdb
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IFandElseStatements/obj/Debug/net8.0/ConsoleApp.IFandElseStatements.genruntimeconfig.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IFandElseStatements/obj/Debug/net8.0/ref/ConsoleApp.IFandElseStatements.dll

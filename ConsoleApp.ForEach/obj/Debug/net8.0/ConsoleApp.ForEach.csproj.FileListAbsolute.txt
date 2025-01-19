@@ -1,0 +1,15 @@
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.ForEach/bin/Debug/net8.0/ConsoleApp.ForEach
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.ForEach/bin/Debug/net8.0/ConsoleApp.ForEach.deps.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.ForEach/bin/Debug/net8.0/ConsoleApp.ForEach.runtimeconfig.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.ForEach/bin/Debug/net8.0/ConsoleApp.ForEach.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.ForEach/bin/Debug/net8.0/ConsoleApp.ForEach.pdb
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.ForEach/obj/Debug/net8.0/ConsoleApp.ForEach.GeneratedMSBuildEditorConfig.editorconfig
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.ForEach/obj/Debug/net8.0/ConsoleApp.ForEach.AssemblyInfoInputs.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.ForEach/obj/Debug/net8.0/ConsoleApp.ForEach.AssemblyInfo.cs
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.ForEach/obj/Debug/net8.0/ConsoleApp.ForEach.csproj.CoreCompileInputs.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.ForEach/obj/Debug/net8.0/ConsoleApp.ForEach.sourcelink.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.ForEach/obj/Debug/net8.0/ConsoleApp.ForEach.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.ForEach/obj/Debug/net8.0/refint/ConsoleApp.ForEach.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.ForEach/obj/Debug/net8.0/ConsoleApp.ForEach.pdb
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.ForEach/obj/Debug/net8.0/ConsoleApp.ForEach.genruntimeconfig.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.ForEach/obj/Debug/net8.0/ref/ConsoleApp.ForEach.dll

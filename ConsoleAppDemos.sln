@@ -8,6 +8,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.IntandBol", "Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.SupremeCourtRetirementAgeCalculator", "ConsoleApp.SupremeCourtRetirementAgeCalculator\ConsoleApp.SupremeCourtRetirementAgeCalculator.csproj", "{4E71C886-4218-4023-A51A-367EC8A10AC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Testing_Ground", "ConsoleApp.Testing_Ground\ConsoleApp.Testing_Ground.csproj", "{F9BFECF6-8E85-4F70-A37B-034D3BA9E69C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.IFandElseStatements", "ConsoleApp.IFandElseStatements\ConsoleApp.IFandElseStatements.csproj", "{E1080A50-FB81-484C-8341-81FF820AD4CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.DayChecker", "ConsoleApp.DayChecker\ConsoleApp.DayChecker.csproj", "{B4CB64F3-4B6B-44FA-8232-F46BE4BDF937}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Caculator", "ConsoleApp.Caculator\ConsoleApp.Caculator.csproj", "{1576BF68-A8C2-4F1A-87D7-D8443CB6B760}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Loops", "ConsoleApp.Loops\ConsoleApp.Loops.csproj", "{B3BBA507-E2FB-4EB4-8BD2-616ADE983FBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +40,25 @@ Global
 		{4E71C886-4218-4023-A51A-367EC8A10AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E71C886-4218-4023-A51A-367EC8A10AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E71C886-4218-4023-A51A-367EC8A10AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9BFECF6-8E85-4F70-A37B-034D3BA9E69C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BFECF6-8E85-4F70-A37B-034D3BA9E69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BFECF6-8E85-4F70-A37B-034D3BA9E69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BFECF6-8E85-4F70-A37B-034D3BA9E69C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1080A50-FB81-484C-8341-81FF820AD4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1080A50-FB81-484C-8341-81FF820AD4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1080A50-FB81-484C-8341-81FF820AD4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1080A50-FB81-484C-8341-81FF820AD4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4CB64F3-4B6B-44FA-8232-F46BE4BDF937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4CB64F3-4B6B-44FA-8232-F46BE4BDF937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4CB64F3-4B6B-44FA-8232-F46BE4BDF937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4CB64F3-4B6B-44FA-8232-F46BE4BDF937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1576BF68-A8C2-4F1A-87D7-D8443CB6B760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1576BF68-A8C2-4F1A-87D7-D8443CB6B760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1576BF68-A8C2-4F1A-87D7-D8443CB6B760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1576BF68-A8C2-4F1A-87D7-D8443CB6B760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3BBA507-E2FB-4EB4-8BD2-616ADE983FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3BBA507-E2FB-4EB4-8BD2-616ADE983FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3BBA507-E2FB-4EB4-8BD2-616ADE983FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3BBA507-E2FB-4EB4-8BD2-616ADE983FBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

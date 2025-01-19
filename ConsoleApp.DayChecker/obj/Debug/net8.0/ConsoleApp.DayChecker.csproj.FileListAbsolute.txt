@@ -1,0 +1,15 @@
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.DayChecker/bin/Debug/net8.0/ConsoleApp.DayChecker
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.DayChecker/bin/Debug/net8.0/ConsoleApp.DayChecker.deps.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.DayChecker/bin/Debug/net8.0/ConsoleApp.DayChecker.runtimeconfig.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.DayChecker/bin/Debug/net8.0/ConsoleApp.DayChecker.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.DayChecker/bin/Debug/net8.0/ConsoleApp.DayChecker.pdb
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.DayChecker/obj/Debug/net8.0/ConsoleApp.DayChecker.GeneratedMSBuildEditorConfig.editorconfig
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.DayChecker/obj/Debug/net8.0/ConsoleApp.DayChecker.AssemblyInfoInputs.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.DayChecker/obj/Debug/net8.0/ConsoleApp.DayChecker.AssemblyInfo.cs
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.DayChecker/obj/Debug/net8.0/ConsoleApp.DayChecker.csproj.CoreCompileInputs.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.DayChecker/obj/Debug/net8.0/ConsoleApp.DayChecker.sourcelink.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.DayChecker/obj/Debug/net8.0/ConsoleApp.DayChecker.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.DayChecker/obj/Debug/net8.0/refint/ConsoleApp.DayChecker.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.DayChecker/obj/Debug/net8.0/ConsoleApp.DayChecker.pdb
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.DayChecker/obj/Debug/net8.0/ConsoleApp.DayChecker.genruntimeconfig.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.DayChecker/obj/Debug/net8.0/ref/ConsoleApp.DayChecker.dll

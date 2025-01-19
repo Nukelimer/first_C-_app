@@ -1,0 +1,15 @@
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Loops/bin/Debug/net8.0/ConsoleApp.Loops
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Loops/bin/Debug/net8.0/ConsoleApp.Loops.deps.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Loops/bin/Debug/net8.0/ConsoleApp.Loops.runtimeconfig.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Loops/bin/Debug/net8.0/ConsoleApp.Loops.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Loops/bin/Debug/net8.0/ConsoleApp.Loops.pdb
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Loops/obj/Debug/net8.0/ConsoleApp.Loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Loops/obj/Debug/net8.0/ConsoleApp.Loops.AssemblyInfoInputs.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Loops/obj/Debug/net8.0/ConsoleApp.Loops.AssemblyInfo.cs
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Loops/obj/Debug/net8.0/ConsoleApp.Loops.csproj.CoreCompileInputs.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Loops/obj/Debug/net8.0/ConsoleApp.Loops.sourcelink.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Loops/obj/Debug/net8.0/ConsoleApp.Loops.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Loops/obj/Debug/net8.0/refint/ConsoleApp.Loops.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Loops/obj/Debug/net8.0/ConsoleApp.Loops.pdb
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Loops/obj/Debug/net8.0/ConsoleApp.Loops.genruntimeconfig.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Loops/obj/Debug/net8.0/ref/ConsoleApp.Loops.dll

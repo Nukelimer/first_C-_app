@@ -1,0 +1,15 @@
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Caculator/bin/Debug/net8.0/ConsoleApp.Caculator
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Caculator/bin/Debug/net8.0/ConsoleApp.Caculator.deps.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Caculator/bin/Debug/net8.0/ConsoleApp.Caculator.runtimeconfig.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Caculator/bin/Debug/net8.0/ConsoleApp.Caculator.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Caculator/bin/Debug/net8.0/ConsoleApp.Caculator.pdb
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Caculator/obj/Debug/net8.0/ConsoleApp.Caculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Caculator/obj/Debug/net8.0/ConsoleApp.Caculator.AssemblyInfoInputs.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Caculator/obj/Debug/net8.0/ConsoleApp.Caculator.AssemblyInfo.cs
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Caculator/obj/Debug/net8.0/ConsoleApp.Caculator.csproj.CoreCompileInputs.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Caculator/obj/Debug/net8.0/ConsoleApp.Caculator.sourcelink.json
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Caculator/obj/Debug/net8.0/ConsoleApp.Caculator.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Caculator/obj/Debug/net8.0/refint/ConsoleApp.Caculator.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Caculator/obj/Debug/net8.0/ConsoleApp.Caculator.pdb
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Caculator/obj/Debug/net8.0/ConsoleApp.Caculator.genruntimeconfig.cache
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.Caculator/obj/Debug/net8.0/ref/ConsoleApp.Caculator.dll

@@ -12,3 +12,4 @@
 /home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.SupremeCourtRetirementAgeCalculator/obj/Debug/net8.0/ConsoleApp.SupremeCourtRetirementAgeCalculator.pdb
 /home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.SupremeCourtRetirementAgeCalculator/obj/Debug/net8.0/ConsoleApp.SupremeCourtRetirementAgeCalculator.genruntimeconfig.cache
 /home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.SupremeCourtRetirementAgeCalculator/obj/Debug/net8.0/ref/ConsoleApp.SupremeCourtRetirementAgeCalculator.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.SupremeCourtRetirementAgeCalculator/obj/Debug/net8.0/ConsoleApp.SupremeCourtRetirementAgeCalculator.sourcelink.json

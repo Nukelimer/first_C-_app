@@ -12,3 +12,4 @@
 /home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IntandBol/obj/Debug/net8.0/ConsoleApp.IntandBol.pdb
 /home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IntandBol/obj/Debug/net8.0/ConsoleApp.IntandBol.genruntimeconfig.cache
 /home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IntandBol/obj/Debug/net8.0/ref/ConsoleApp.IntandBol.dll
+/home/remi/Desktop/C#/ConsoleAppDemos/ConsoleApp.IntandBol/obj/Debug/net8.0/ConsoleApp.IntandBol.sourcelink.json
