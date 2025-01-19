@@ -31,11 +31,6 @@ while (enteredNumber != -1)
        sum += enteredNumber; 
     }
 }
-
-
-
-
-
 Console.WriteLine("Sum is {0}", sum);
 
 
